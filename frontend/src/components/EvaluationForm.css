@@ -1,0 +1,45 @@
+.evaluation-form {
+  width: 75%;
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.evaluation-form h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.evaluation-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.evaluation-form label {
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.evaluation-form input,
+.evaluation-form select,
+.evaluation-form textarea {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.evaluation-form button {
+  padding: 10px;
+  background-color: #282c34;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.evaluation-form button:hover {
+  background-color: #3a3f47;
+}
