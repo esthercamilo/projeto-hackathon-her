@@ -45,9 +45,9 @@ A versão DEMO do MPV está disponível em [http://18.231.197.44/](http://18.231
 
 [Github](https://www.figma.com/proto/3MtfLRHi1fcASZD6RzvoPT/Hacking.Her?node-id=1-2&t=UhNpN2ddADRW0UrA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
 
-[Figma] (https://www.notion.so/Hackathon-Hacking-Rio-b2e434d31d294ec08bc7eb8526589c3b)
+[Figma](https://www.notion.so/Hackathon-Hacking-Rio-b2e434d31d294ec08bc7eb8526589c3b)
 
-[Notion] (https://www.notion.so/Hackathon-Hacking-Rio-b2e434d31d294ec08bc7eb8526589c3b)
+[Notion](https://www.notion.so/Hackathon-Hacking-Rio-b2e434d31d294ec08bc7eb8526589c3b)
 
 ## Outras informações
 
