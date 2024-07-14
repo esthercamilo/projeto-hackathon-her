@@ -1,5 +1,6 @@
 // src/components/LoginForm.js
 import React, { useState } from 'react';
+import './LoginForm.css'; // Importe o arquivo de estilo CSS
 import { useNavigate } from 'react-router-dom';
 
 const LoginForm = () => {
@@ -17,6 +18,7 @@ const LoginForm = () => {
   };
 
   return (
+  <div className="login-form">
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
       <h2>Login</h2>
       <form onSubmit={handleLogin}>
@@ -45,6 +47,7 @@ const LoginForm = () => {
         <button type="submit">Login</button>
       </form>
     </div>
+  </div>
   );
 };
 

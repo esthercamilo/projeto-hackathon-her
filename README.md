@@ -33,14 +33,6 @@ de diversidade e justiça.
    ``` geth --syncmode full --cache=1024 --http --http.addr="localhost" --http.port="8545" --http.api="eth,net,web3,personal" --allow-insecure-unlock```
 - solc (Solidity Compiler): Necessário para compilar contratos inteligentes escritos em Solidity.
 
-## Instalação da aplicação
-
-```
-sudo snap install solc
-sudo apt-get update
-
-
-``` 
 
 ## Disponibilidade
 

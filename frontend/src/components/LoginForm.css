@@ -1,0 +1,15 @@
+/* src/styles/LoginForm.css */
+.login-form {
+  background-image: url('../assets/login-background.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Garante que o background cubra toda a altura da tela */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative; /* Posição relativa para facilitar o posicionamento absoluto */
+}
+
+.login-container {
+  /* Estilos adicionais para o contêiner do formulário de login, se necessário */
+}
