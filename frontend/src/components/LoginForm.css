@@ -13,3 +13,18 @@
 .login-container {
   /* Estilos adicionais para o contêiner do formulário de login, se necessário */
 }
+
+.login_input{
+  height: 50px;
+  border: 1px gray dashed;
+  border-radius: 5px;
+  margin-bottom: 54%;
+  margin-top: -8%;
+}
+
+.login_button{
+    height: 100px;
+    width: 200px;
+    border: 1px gray dashed;
+    background-color: unset;
+}

@@ -14,9 +14,11 @@
   position: absolute;
   top: 0px; /* Ajuste a posição vertical do botão conforme necessário */
   right: 250px; /* Ajuste a posição horizontal do botão conforme necessário */
-  width: 100px;
+  width: 600px;
   height: 100px;
   background: transparent; /* Botão invisível */
   border: none;
   cursor: pointer;
+  border: 1px black dashed;
+  border-radius: 5px;
 }

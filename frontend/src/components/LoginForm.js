@@ -20,12 +20,10 @@ const LoginForm = () => {
   return (
   <div className="login-form">
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
-      <h2>Login</h2>
       <form onSubmit={handleLogin}>
         <div>
           <label>
-            Username:
-            <input
+            <input className="login_input"
               type="text"
               value={username}
               onChange={(e) => setUsername(e.target.value)}
@@ -35,8 +33,7 @@ const LoginForm = () => {
         </div>
         <div>
           <label>
-            Password:
-            <input
+            <input className="login_input"
               type="password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
@@ -44,7 +41,7 @@ const LoginForm = () => {
             />
           </label>
         </div>
-        <button type="submit">Login</button>
+        <button className="login_button" type="submit"></button>
       </form>
     </div>
   </div>
