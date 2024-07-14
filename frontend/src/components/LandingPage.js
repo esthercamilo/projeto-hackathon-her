@@ -12,7 +12,7 @@ const LandingPage = () => {
   return (
     <div className="landing-page">
       <Link to="/login">
-        <button className="login-button" onClick={handleLoginClick}>xxxxxxxxxxx</button>
+        <button className="login-button" onClick={handleLoginClick}></button>
       </Link>
     </div>
   );

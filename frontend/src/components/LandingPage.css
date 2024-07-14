@@ -15,7 +15,7 @@
   top: 0px; /* Ajuste a posição vertical do botão conforme necessário */
   right: 250px; /* Ajuste a posição horizontal do botão conforme necessário */
   width: 100px;
-  height: 50px;
+  height: 100px;
   background: transparent; /* Botão invisível */
   border: none;
   cursor: pointer;
