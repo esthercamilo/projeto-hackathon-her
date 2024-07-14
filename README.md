@@ -1,6 +1,6 @@
 
 
-# <NOME_DA_PLATAFORMA>: Promovendo Equidade e Justiça: Uma Plataforma Inovadora de Avaliação e Seleção de Profissionais 
+# AXIA: Promovendo Equidade e Transparência: Uma Plataforma Inovadora de Avaliação de Profissionais 
 
 Nossa plataforma combina tecnologia blockchain para redefinir como
 avaliamos e reconhecemos o desempenho e a contratação de profissionais.
@@ -40,6 +40,13 @@ sudo snap install solc
 sudo apt-get update
 
 
-
-
 ``` 
+
+## Disponibilidade
+
+A versão DEMO do MPV está disponível em [http://18.231.197.44/](http://18.231.197.44/)
+
+
+
+
+
