@@ -42,7 +42,12 @@ A versão DEMO do MPV está disponível em [http://18.231.197.44/](http://18.231
 ## Outros Links
 
 [Miro](https://miro.com/app/board/uXjVKzcTNLE=/)
+
 [Github](https://www.figma.com/proto/3MtfLRHi1fcASZD6RzvoPT/Hacking.Her?node-id=1-2&t=UhNpN2ddADRW0UrA-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+
+[Figma] (https://www.notion.so/Hackathon-Hacking-Rio-b2e434d31d294ec08bc7eb8526589c3b)
+
+[Notion] (https://www.notion.so/Hackathon-Hacking-Rio-b2e434d31d294ec08bc7eb8526589c3b)
 
 ## Outras informações
 
@@ -72,7 +77,7 @@ A empresa pode verificar a autenticidade das certificações e experiências de 
 Contratos inteligentes podem ser usados para recompensar funcionários que adquirem novas competências ou atingem certos objetivos.
 Tokens de recompensa podem ser emitidos automaticamente para os funcionários que completam treinamentos ou certificações adicionais.
 
-### RH e seu aliado
+### RH é seu aliado
 
 A equipe de RH pode definir novos contratos inteligentes sem precisar escrever código através de uma interface amigável,
 onde eles preenchem formulários simples com informações sobre a vaga, como o título do cargo e as 
