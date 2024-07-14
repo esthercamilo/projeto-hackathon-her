@@ -1,23 +1,11 @@
+// src/components/Dashboard.js
 import React from 'react';
-import Sidebar from './Sidebar';
-import Header from './Header';
-import PerformanceChart from './PerformanceChart';
-import EmployeeList from './EmployeeList';
-import EvaluationForm from './EvaluationForm';
-import './Dashboard.css';
 
 const Dashboard = () => {
   return (
-    <div className="dashboard-container">
-      <Sidebar />
-      <div className="main-content">
-        <Header />
-        <div className="content">
-          <PerformanceChart />
-          <EmployeeList />
-          <EvaluationForm />
-        </div>
-      </div>
+    <div style={{ textAlign: 'center', marginTop: '50px' }}>
+      <h2>Welcome to the Dashboard!</h2>
+      <p>This is where your dashboard content would go.</p>
     </div>
   );
 };
