@@ -1,13 +1,21 @@
-/* src/components/LandingPage.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
 .landing-page {
-  background-image: url('../assets/landing.png'); /* Caminho para sua imagem de fundo */
-  background-size: cover;
-  background-position: top center; /* Ajuste para posicionar o topo da imagem no centro */
-  height: 100vh; /* Garante que o background cubra toda a altura da tela */
+  background-color:silver;
+  width: 100%;
+  overflow-y: auto;
+  background-image: url('../assets/landing.png');
+  background-position: center top;
+  background-repeat: no-repeat;
+  height: 6000px;
   display: flex;
   justify-content: center;
   align-items: center;
-  position: relative; /* Posição relativa para facilitar o posicionamento absoluto */
+  position: relative;
 }
 
 .login-button {

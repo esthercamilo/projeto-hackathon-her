@@ -1,49 +1,12 @@
 /* Dashboard.css */
 .dashboard {
+  background-image: url('../assets/dashboard.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Garante que o background cubra toda a altura da tela */
   display: flex;
-  height: 100vh;
-}
-
-.sidebar {
-  width: 200px;
-  background-color: #333; /* Azul grafite */
-  color: white;
-  padding: 20px;
-}
-
-.sidebar ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.sidebar li {
-  cursor: pointer;
-  padding: 10px 0;
-  font-size: 18px;
-}
-
-.main-content {
-  flex: 1;
-  padding: 20px;
-  background-color: #f06292; /* Pink escuro */
-  color: white;
-}
-
-.highlight {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.tabs {
-  display: flex;
-  justify-content: space-around;
-}
-
-.tab {
-  padding: 20px;
-  cursor: pointer;
-}
-
-.tab.active {
-  background-color: rgba(255, 255, 255, 0.2); /* Fundo leve para aba ativa */
+  justify-content: center;
+  align-items: center;
+  position: relative; /* Posição relativa para facilitar o posicionamento absoluto */
+  overflow-y: scroll;
 }

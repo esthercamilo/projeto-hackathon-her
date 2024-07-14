@@ -1,3 +1,8 @@
+"""
+Aqui será feita a modelagem de funcionário, rh dentre outras necessárias para o registro em blockchain.
+Usaremos banco de dados relacional.
+"""
+
 from django.db import models
 
 
